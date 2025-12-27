@@ -1,0 +1,2 @@
+"""Entités du domain."""
+

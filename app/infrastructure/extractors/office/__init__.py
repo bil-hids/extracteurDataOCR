@@ -1,0 +1,2 @@
+"""Extracteurs Office (Word, Excel)."""
+

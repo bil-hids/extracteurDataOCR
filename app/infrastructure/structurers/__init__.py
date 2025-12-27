@@ -1,0 +1,2 @@
+"""Structurateurs de données."""
+

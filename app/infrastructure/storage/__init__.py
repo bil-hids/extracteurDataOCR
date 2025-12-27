@@ -1,0 +1,2 @@
+"""Stockage de fichiers."""
+

@@ -1,0 +1,6 @@
+# Dépendances de production
+-r base.txt
+
+# Production uniquement
+gunicorn==21.2.0
+
